@@ -1,4 +1,6 @@
-
+---
+layout: null
+---
 # Respaldo Rclone
 
 Aplicación de uso personal para realizar copias de seguridad de archivos de Google Drive mediante Rclone.
